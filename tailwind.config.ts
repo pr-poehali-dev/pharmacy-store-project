@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Medical theme colors
+				medical: {
+					green: '#10B981',
+					'green-light': '#D1FAE5',
+					'green-dark': '#047857',
+					trust: '#1F2937',
+					soft: '#F8FAFC',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
